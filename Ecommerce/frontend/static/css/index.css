@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* width: 90%; */
+}
+
+.container {
+  /* display: flex; */
+  width: 100%;
+  height: 100%;
+  /* justify-content: center; */
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+}
+
+.card {
+  width: 18rem;
+}
